@@ -1,0 +1,72 @@
+# 👋 Hi, I'm Fredrick Machemba
+### 📊 Data Analyst | Supply Chain & Economic Insights
+
+Turning raw data into clear, actionable insights — with a focus on **supply chain systems, healthcare accessibility, and economic trends in African markets**. I help organizations make better decisions through structured analysis, clean reporting, and well-designed dashboards.
+
+📍 Based in Tanzania | Open to remote and hybrid opportunities
+
+---
+
+## 🎯 What I Do
+
+- 📦 **Supply Chain Analytics** — Optimization, risk analysis, and logistics insights
+- 🏥 **Healthcare Data Analysis** — Accessibility, affordability, and cost insights
+- 💱 **Economic & Market Analysis** — FX, inflation, and emerging market trends
+- 📊 **Dashboard Development** — Business reporting in Power BI & Tableau
+- 🎨 **Data Visualization** — Translating complex datasets into clear visual stories
+- 🧠 **Decision Support** — Data-driven recommendations for business teams
+
+---
+
+## 🛠️ Tech Stack
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+
+---
+
+## 🔧 My Analytics Workflow
+
+| Stage | What I Do |
+|-------|-----------|
+| 📥 **Prepare** | Data collection, structuring, and validation |
+| 🧹 **Clean** | Handling missing values, duplicates, and standardization in SQL & Excel |
+| 📊 **Analyze** | Exploratory analysis, KPI tracking, and trend identification |
+| 🎨 **Visualize** | Building clear, interactive dashboards in Power BI & Tableau |
+| 💡 **Deliver** | Translating findings into business-ready recommendations |
+
+---
+
+## 📂 Featured Projects
+
+### 📦 Supply Chain Cold-Chain Exposure Analysis ✅
+Analyzed cold-chain dependency in healthcare supply systems, identified regions with high logistical and temperature-control risk, and translated findings into actionable insights for supply chain resilience.  
+🔗 [Read the full case study on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7458654359719997440/)
+
+### 🏥 Healthcare Affordability & Access Analysis 🚧
+Exploring how inflation and currency fluctuations shape access to medicine and healthcare across emerging markets — with a focus on East Africa.
+
+---
+
+## 📈 Currently Learning
+- 🐍 **Python** for data analysis (pandas, numpy, matplotlib)
+- 🗂️ **Airtable** for relational data management and workflow automation
+- 📦 **Supply Chain Analytics** — advanced logistics, demand forecasting, and inventory optimization
+- 📊 Advanced **SQL** and dashboard storytelling in Power BI & Tableau
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/machembajr/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Machembajr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/machembajr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machemba.jnr@gmail.com)
+
+---
+
+> 💡 **Open to opportunities:** Data Analyst | Business Analyst | Supply Chain Analyst | BI Developer roles — remote, hybrid, or based in East Africa.
