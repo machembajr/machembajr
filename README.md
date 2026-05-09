@@ -41,22 +41,19 @@ Turning raw data into clear, actionable insights — with a focus on **supply ch
 
 ---
 
-## 📂 Featured Projects
-
-### 📦 Supply Chain Cold-Chain Exposure Analysis ✅
-Analyzed cold-chain dependency in healthcare supply systems, identified regions with high logistical and temperature-control risk, and translated findings into actionable insights for supply chain resilience.  
-🔗 [Read the full case study on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7458654359719997440/)
-
-### 🏥 Healthcare Affordability & Access Analysis 🚧
-Exploring how inflation and currency fluctuations shape access to medicine and healthcare across emerging markets — with a focus on East Africa.
-
----
-
 ## 📈 Currently Learning
 - 🐍 **Python** for data analysis (pandas, numpy, matplotlib)
 - 🗂️ **Airtable** for relational data management and workflow automation
 - 📦 **Supply Chain Analytics** — advanced logistics, demand forecasting, and inventory optimization
 - 📊 Advanced **SQL** and dashboard storytelling in Power BI & Tableau
+
+---
+
+## 💼 What I Bring to a Team
+- A structured, detail-oriented approach to messy real-world data
+- Clear communication — translating analysis into business language
+- Focus on emerging market context (Tanzania, East Africa, African economies)
+- Commitment to clean dashboards that decision-makers actually use
 
 ---
 
@@ -70,3 +67,5 @@ Exploring how inflation and currency fluctuations shape access to medicine and h
 ---
 
 > 💡 **Open to opportunities:** Data Analyst | Business Analyst | Supply Chain Analyst | BI Developer roles — remote, hybrid, or based in East Africa.
+> 
+> 📁 **See my work below** in pinned repositories.
