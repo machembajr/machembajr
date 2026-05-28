@@ -91,7 +91,27 @@ Turning raw data into clear, actionable insights — with a focus on **supply ch
 - Commitment to clean dashboards that decision-makers actually use
 
 ---
+---
 
+## 📊 My GitHub Stats
+
+<div align="center">
+
+![Fredrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=machembajr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=machembajr&layout=compact&theme=tokyonight&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=machembajr&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=machembajr&theme=tokyo-night)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=machembajr&theme=tokyonight&no-frame=true&column=7)
+
+![Profile Views](https://komarev.com/ghpvc/?username=machembajr&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/machembajr/)
