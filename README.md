@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Fredrick%20James%20Machemba&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlignY=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Fredrick%20James%20Machemba&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlign=center"/>
 </div>
 
 <div align="center">
@@ -13,12 +13,11 @@
 
 ---
 
-</a>
 <a href="#"><img src="https://img.shields.io/badge/SQL-0A192F?style=for-the-badge&logoColor=FFD700"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Power%20BI-0A192F?style=for-the-badge&logo=powerbi&logoColor=FFD700"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Excel-0A192F?style=for-the-badge&logo=microsoftexcel&logoColor=4CAF50"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Tableau-0A192F?style=for-the-badge&logo=tableau&logoColor=FFD700"/></a>
-<a href="#"><img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0A192F?style=for-the-badge&logo=sap&logoColor=FFD700"/></a></a>
+<a href="#"><img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0A192F?style=for-the-badge&logo=sap&logoColor=FFD700"/></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4CAF50?style=flat-square"/>
 &nbsp;
@@ -51,11 +50,10 @@ I care most about the unglamorous part: cleaning data you can actually trust, th
 
 ## 📌 Featured Projects
 
-**📦 [Warehouse Performance Intelligence](https://github.com/machembajr/warehouse-performance-intelligence)** &nbsp;·&nbsp; SQL + Power BI<br>
-Surfaced **$8.1M** in holding-cost exposure and an **84.72%** fulfillment gap across **1,000 SKUs**.
-
-**🏥 [Health Inventory Dashboard — Africa](https://github.com/machembajr/health-inventory-dashboard-africa)** &nbsp;·&nbsp; Excel<br>
-Mapped cold-chain risk across **5 African countries** — **45%** of inventory needs temperature control.
+| Project | Tech Stack | Impact |
+|---------|-----------|--------|
+| 📦 [Warehouse Performance Intelligence](https://github.com/machembajr/warehouse-performance-intelligence) | SQL + Power BI | Surfaced **$8.1M** in holding-cost exposure and an **84.72%** fulfillment gap across **1,000 SKUs** |
+| 🏥 [Health Inventory Dashboard — Africa](https://github.com/machembajr/health-inventory-dashboard-africa) | Excel | Mapped cold-chain risk across **5 African countries** — **45%** of inventory needs temperature control |
 
 ---
 
