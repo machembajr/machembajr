@@ -1,11 +1,6 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Fredrick%20James%20Machemba&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlign=center"/>
 </div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Fredrick%20J%20Machemba&fontSize=44&fontColor=FFD700&animation=fadeIn&fontAlignY=50"/>
-</div>
-
 <div align="center">
 
 ### 📊 Supply Chain & Business Intelligence Analyst
@@ -50,10 +45,10 @@ I care most about the unglamorous part: cleaning data you can actually trust, th
 
 ## 📌 Featured Projects
 
-| Project | Tech Stack | Impact |
-|---------|-----------|--------|
-| 📦 [Warehouse Performance Intelligence](https://github.com/machembajr/warehouse-performance-intelligence) | SQL + Power BI | Surfaced **$8.1M** in holding-cost exposure and an **84.72%** fulfillment gap across **1,000 SKUs** |
-| 🏥 [Health Inventory Dashboard — Africa](https://github.com/machembajr/health-inventory-dashboard-africa) | Excel | Mapped cold-chain risk across **5 African countries** — **45%** of inventory needs temperature control |
+| Project        | Tech Stack | Impact |
+|----------------|-----------|--------|
+| 📦 [Warehouse Performance Intelligence](https://github.com/machembajr/warehouse-performance-intelligence)|Excel, Sql + Power BI | Surfaced **$8.1M** in holding-cost exposure and an **84.72%** fulfillment gap across **1,000 SKUs** |
+| 🏥 [Health Inventory Dashboard  Africa](https://github.com/machembajr/health-inventory-dashboard-africa) | Excel | Mapped cold-chain risk across **5 African countries** — **45%** of inventory needs temperature control |
 
 ---
 
