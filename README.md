@@ -37,9 +37,9 @@ I care most about the unglamorous part: cleaning data you can actually trust, th
 
 ## 🎓 Education
 
-**Rutgers University** — *Supply Chain Analytics Specialization*
+**Rutgers University**  *Supply Chain Analytics Specialization*
 Supply Chain Management & Data Analytics &nbsp;•&nbsp; Jan 2026 – Nov 2027
-Hands-on work across the full supply chain lifecycle — from sourcing and production to logistics and customer delivery — applying analytical tools to improve efficiency, performance, and decision-making.
+Hands-on work across the full supply chain lifecycle from sourcing and production to logistics and customer delivery   applying analytical tools to improve efficiency, performance, and decision making. (Coursera/online)
 
 ---
 
