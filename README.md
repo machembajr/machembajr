@@ -1,13 +1,10 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Fredrick%20James%20Machemba&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlign=center"/> 
-</div>
-<div align="center">
-
-### 📊 Supply Chain & Business Intelligence Analyst
-**Turning operational chaos into data-driven decisions**
-
----
-
+</div>    
+<p align="center">
+  Supply Chain & Business Intelligence Analyst | Turning operational chaos into data-driven decisions
+</p>
+<p align="center">
 <a href="#"><img src="https://img.shields.io/badge/SQL-0A192F?style=for-the-badge&logoColor=FFD700"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Power%20BI-0A192F?style=for-the-badge&logo=powerbi&logoColor=FFD700"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Excel-0A192F?style=for-the-badge&logo=microsoftexcel&logoColor=4CAF50"/></a>
