@@ -1,31 +1,37 @@
-# Hi, I'm Fredrick Machemba 👋
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Fredrick%20James%20Machemba&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Supply%20Chain%20Analytics%20%C2%B7%20FY%202024%20%C2%B7%201%2C000%20SKUs&descAlignY=58&descColor=4CAF50&descSize=18"/>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Fredrick%20J%20Machemba&fontSize=44&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%94%20Supply%20Chain%2C%20Operations%20%26%20Business%20Intelligence&descAlignY=60&descColor=FFD700&descSize=18"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-0A192F?style=for-the-badge&logoColor=FFD700"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Power%20BI-0A192F?style=for-the-badge&logo=powerbi&logoColor=FFD700"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Excel-0A192F?style=for-the-badge&logo=microsoftexcel&logoColor=4CAF50"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Tableau-0A192F?style=for-the-badge&logo=tableau&logoColor=FFD700"/></a>
+<a href="#"><img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0A192F?style=for-the-badge&logo=sap&logoColor=FFD700"/></a></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-4CAF50?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Based%20in-Tanzania-0A192F?style=flat-square&labelColor=0A192F&color=FFD700"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Supply%20Chain%20%26%20BI-0A192F?style=flat-square&color=4CAF50"/>
+&nbsp;
 
-### 📊 Data Analyst — Supply Chain, Operations & Business Intelligence
-
-I turn messy, real-world data into clear decisions teams can act on. My focus is **supply chain and operational analytics** — inventory health, fulfillment, holding-cost exposure, and demand forecasting — with a strong interest in **healthcare and African markets**.
-
+I turn messy, real world data into clear decisions teams can act on. My focus is supply chain and operational analytics inventory health, fulfillment, holding cost exposure, and demand forecasting  with a strong interest in healthcare and African markets.
 I care most about the unglamorous part: cleaning data you can actually trust, then building dashboards that don't just look good but tell you what to do next.
 
-📍 Based in **Tanzania** &nbsp;•&nbsp; 🌍 Open to remote and hybrid opportunities
-
----
 
 ## 🛠️ What I Work With
 
-**Analysis & Querying** &nbsp;&nbsp; `SQL` `MySQL` `Python (pandas, numpy)` `Excel`
-
+**Analysis & Querying** &nbsp;&nbsp; `SQL` `MySQL`  `Excel`
 **Visualization & BI** &nbsp;&nbsp; `Power BI` `Tableau`
-
-**Operations & Data** &nbsp;&nbsp; `SAP S/4HANA` `Airtable`
-
+**Operations & Data** &nbsp;&nbsp; `SAP S/4HANA` 
 **Workflow** &nbsp;&nbsp; `Prepare → Clean → Analyze → Visualize → Deliver`
 
 ![SQL](https://img.shields.io/badge/SQL-0A192F?style=for-the-badge&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0A192F?style=for-the-badge&logo=powerbi&logoColor=FFD700)
 ![Excel](https://img.shields.io/badge/Excel-0A192F?style=for-the-badge&logo=microsoftexcel&logoColor=4CAF50)
 ![Tableau](https://img.shields.io/badge/Tableau-0A192F?style=for-the-badge&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=FFD700)
-![Airtable](https://img.shields.io/badge/Airtable-0A192F?style=for-the-badge&logo=airtable&logoColor=white)
+
 
 ---
 
@@ -49,13 +55,13 @@ Hands-on work across the full supply chain lifecycle — from sourcing and produ
 
 ## 📜 Certifications
 
-- 🟦 **Google Data Analytics** Professional Certificate — *Coursera* (2026)
-- 🟧 **SAP S/4HANA Essentials for Beginners** — *Great Learning* (2026)
-- 🟩 **Zendesk Customer Service** Professional Certificate — *LinkedIn Learning* (2026)
+-  **Google Data Analytics** Professional Certificate 
+-  **SAP S/4HANA Essentials for Beginners** 
+-  **Zendesk Customer Service** Professional Certificate 
 
 ---
 
-## 🌱 Currently
+##  Currently
 
 - Deepening **Supply Chain Analytics** — advanced demand forecasting and inventory optimization
 - Strengthening **Python** for data analysis and workflow automation
@@ -66,10 +72,7 @@ Hands-on work across the full supply chain lifecycle — from sourcing and produ
 
 ## 🤝 Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/machembajr](https://www.linkedin.com/in/machembajr/)
-- 📧 **Email:** machemba.jnr@gmail.com
-- 📍 **Location:** Tanzania
+- 💼 **LinkedIn:** [linkedin.com/in/machembajr](https://www.linkedin.com/in/machembajr/) 📧 **Email:** machemba.jnr@gmail.com
 
----
 
 <sub>💡 What I bring: a detail-oriented eye for messy data, clear communication that turns analysis into business language, and a focus on emerging markets where good decisions make a real difference.</sub>
