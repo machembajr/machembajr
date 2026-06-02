@@ -1,7 +1,7 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Fredrick%20James%20Machemba&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Supply%20Chain%20Analytics%20%C2%B7%20FY%202024%20%C2%B7%201%2C000%20SKUs&descAlignY=58&descColor=4CAF50&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Fredrick%20James%20Machemba&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAl[...]
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Fredrick%20J%20Machemba&fontSize=44&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%94%20Supply%20Chain%2C%20Operations%20%26%20Business%20Intelligence&descAlignY=60&descColor=FFD700&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Fredrick%20J%20Machemba&fontSize=44&fontColor=FFD700&animation=fadeIn&fontAlignY[...]
 </a>
 <a href="#"><img src="https://img.shields.io/badge/SQL-0A192F?style=for-the-badge&logoColor=FFD700"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Power%20BI-0A192F?style=for-the-badge&logo=powerbi&logoColor=FFD700"/></a>
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Focus-Supply%20Chain%20%26%20BI-0A192F?style=flat-square&color=4CAF50"/>
 &nbsp;
 
-I turn messy, real world data into clear decisions teams can act on. My focus is supply chain and operational analytics inventory health, fulfillment, holding cost exposure, and demand forecasting  with a strong interest in healthcare and African markets.
+I turn messy, real world data into clear decisions teams can act on. My focus is supply chain and operational analytics inventory health, fulfillment, holding cost exposure, and demand forecasting[...]
 I care most about the unglamorous part: cleaning data you can actually trust, then building dashboards that don't just look good but tell you what to do next.
 
 
@@ -49,15 +49,15 @@ Mapped cold-chain risk across **5 African countries** — **45%** of inventory n
 
 **Rutgers University** — *Supply Chain Analytics Specialization*
 Supply Chain Management & Data Analytics &nbsp;•&nbsp; Jan 2026 – Nov 2027
-Hands-on work across the full supply chain lifecycle — from sourcing and production to logistics and customer delivery — applying analytical tools to improve efficiency, performance, and decision-making.
+Hands-on work across the full supply chain lifecycle — from sourcing and production to logistics and customer delivery — applying analytical tools to improve efficiency, performance, and decis[...]
 
 ---
 
 ## 📜 Certifications
 
--  **Google Data Analytics** Professional Certificate 
--  **SAP S/4HANA Essentials for Beginners** 
--  **Zendesk Customer Service** Professional Certificate 
+**Google Data Analytics** Professional Certificate 
+**SAP S/4HANA Essentials for Beginners** 
+**Zendesk Customer Service** Professional Certificate 
 
 ---
 
@@ -75,4 +75,4 @@ Hands-on work across the full supply chain lifecycle — from sourcing and produ
 - 💼 **LinkedIn:** [linkedin.com/in/machembajr](https://www.linkedin.com/in/machembajr/) 📧 **Email:** machemba.jnr@gmail.com
 
 
-<sub>💡 What I bring: a detail-oriented eye for messy data, clear communication that turns analysis into business language, and a focus on emerging markets where good decisions make a real difference.</sub>
+<sub>💡 What I bring: a detail-oriented eye for messy data, clear communication that turns analysis into business language, and a focus on emerging markets where good decisions make a real diffe[...]
