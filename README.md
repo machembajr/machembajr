@@ -9,7 +9,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Power%20BI-0A192F?style=for-the-badge&logo=powerbi&logoColor=FFD700"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Excel-0A192F?style=for-the-badge&logo=microsoftexcel&logoColor=4CAF50"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Tableau-0A192F?style=for-the-badge&logo=tableau&logoColor=FFD700"/></a>
-<a href="#"><img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0A192F?style=for-the-badge&logo=sap&logoColor=FFD700"/></a>
+</a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4CAF50?style=flat-square"/>
 &nbsp;
